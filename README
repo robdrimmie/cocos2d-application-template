@@ -1,0 +1,8 @@
+An XCode Project Template that makes it easier to start developing projects using XCode. 
+
+Install to:
+/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/Cocos2d Application
+
+Strongly influenced by http://monoclestudios.com/cocos2d_whitepaper.html and also including hooks for Flurry (http://www.flurry.com/) integration.
+
+Future versions will include updates to Cocos2d as appropriate but also more tutorial information and samples of basic application functionality.
