@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1D3623260D0F684500981E51 /* ___PROJECTNAMEASIDENTIFIER___AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* ___PROJECTNAMEASIDENTIFIER___AppDelegate.m */; };
+		1D3623260D0F684500981E51 /* ___PROJECTNAME___AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* ___PROJECTNAME___AppDelegate.m */; };
 		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
 		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
@@ -90,8 +90,8 @@
 
 /* Begin PBXFileReference section */
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		1D3623240D0F684500981E51 /* ___PROJECTNAMEASIDENTIFIER___AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "___PROJECTNAMEASIDENTIFIER___AppDelegate.h"; sourceTree = "<group>"; };
-		1D3623250D0F684500981E51 /* ___PROJECTNAMEASIDENTIFIER___AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "___PROJECTNAMEASIDENTIFIER___AppDelegate.m"; sourceTree = "<group>"; };
+		1D3623240D0F684500981E51 /* ___PROJECTNAME___AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "___PROJECTNAME___AppDelegate.h"; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* ___PROJECTNAME___AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "___PROJECTNAME___AppDelegate.m"; sourceTree = "<group>"; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -238,8 +238,8 @@
 		CB0FF9960F7EBE0B00913974 /* FlurryAPI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlurryAPI.h; sourceTree = "<group>"; };
 		CB0FF9970F7EBE0B00913974 /* libFlurry.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libFlurry.a; sourceTree = "<group>"; };
 		CBA2B2130F8709250016B3A6 /* ___PROJECTNAMEASIDENTIFIER___.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "___PROJECTNAMEASIDENTIFIER___.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		CBA2B2190F8709500016B3A6 /* h_screen_template.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = h_screen_template.png; path = "Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/c2d/Images/h_screen_template.png"; sourceTree = DEVELOPER_DIR; };
-		CBA2B21A0F8709500016B3A6 /* v_screen_template.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = v_screen_template.png; path = "Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/c2d/Images/v_screen_template.png"; sourceTree = DEVELOPER_DIR; };
+		CBA2B2190F8709500016B3A6 /* h_screen_template.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = h_screen_template.png; path = "Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/Cocos2d Application/Images/h_screen_template.png"; sourceTree = DEVELOPER_DIR; };
+		CBA2B21A0F8709500016B3A6 /* v_screen_template.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = v_screen_template.png; path = "Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/Cocos2d Application/Images/v_screen_template.png"; sourceTree = DEVELOPER_DIR; };
 		CBEF89AE0F768B4E00A59BE7 /* fps_images.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fps_images.png; path = Images/fps_images.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -265,8 +265,8 @@
 			children = (
 				CB0DF7BF0F7563EB00DC7215 /* MenuScene.h */,
 				CB0DF7C00F7563EB00DC7215 /* MenuScene.m */,
-				1D3623240D0F684500981E51 /* ___PROJECTNAMEASIDENTIFIER___AppDelegate.h */,
-				1D3623250D0F684500981E51 /* ___PROJECTNAMEASIDENTIFIER___AppDelegate.m */,
+				1D3623240D0F684500981E51 /* ___PROJECTNAME___AppDelegate.h */,
+				1D3623250D0F684500981E51 /* ___PROJECTNAME___AppDelegate.m */,
 				CB0DF7E20F75657E00DC7215 /* GameScene.h */,
 				CB0DF7E30F75657E00DC7215 /* GameScene.m */,
 			);
@@ -611,7 +611,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
-				1D3623260D0F684500981E51 /* ___PROJECTNAMEASIDENTIFIER___AppDelegate.m in Sources */,
+				1D3623260D0F684500981E51 /* ___PROJECTNAME___AppDelegate.m in Sources */,
 				CB0DF6B60F755FD600DC7215 /* chipmunk.c in Sources */,
 				CB0DF6B80F755FD600DC7215 /* cpArbiter.c in Sources */,
 				CB0DF6B90F755FD600DC7215 /* cpArray.c in Sources */,

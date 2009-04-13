@@ -1,13 +1,13 @@
 // !$*UTF8*$!
 {
-	1D3623240D0F684500981E51 /* ___PROJECTNAMEASIDENTIFIER___AppDelegate.h */ = {
+	1D3623240D0F684500981E51 /* ___PROJECTNAME___AppDelegate.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1011, 468}}";
 			sepNavSelRange = "{7, 29}";
 			sepNavVisRange = "{0, 366}";
 		};
 	};
-	1D3623250D0F684500981E51 /* ___PROJECTNAMEASIDENTIFIER___AppDelegate.m */ = {
+	1D3623250D0F684500981E51 /* ___PROJECTNAME___AppDelegate.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1011, 868}}";
 			sepNavSelRange = "{0, 196}";
@@ -28,7 +28,7 @@
 			1D6058900D05DD3D006BFB54 /* ___PROJECTNAME___ */,
 		);
 		breakpoints = (
-			CB0FF9BD0F7FA10300913974 /* ___PROJECTNAMEASIDENTIFIER___AppDelegate.m:51 */,
+			CB0FF9BD0F7FA10300913974 /* ___PROJECTNAME___AppDelegate.m:51 */,
 		);
 		codeSenseManager = CB0DF6620F755E3300DC7215 /* Code sense */;
 		executables = (
@@ -93,14 +93,14 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 260578920;
-			PBXWorkspaceStateSaveDate = 260578920;
+			PBXPerProjectTemplateStateSaveDate = 261352318;
+			PBXWorkspaceStateSaveDate = 261352318;
 		};
 		perUserProjectItems = {
+			CB1702960F93EBF9004DE5A7 /* PBXTextBookmark */ = CB1702960F93EBF9004DE5A7 /* PBXTextBookmark */;
 			CBA2B2240F8709890016B3A6 /* PBXTextBookmark */ = CBA2B2240F8709890016B3A6 /* PBXTextBookmark */;
 			CBA2B2260F8709890016B3A6 /* PBXTextBookmark */ = CBA2B2260F8709890016B3A6 /* PBXTextBookmark */;
 			CBE4790D0F881EAD002E19B4 /* PBXTextBookmark */ = CBE4790D0F881EAD002E19B4 /* PBXTextBookmark */;
-			CBE4790E0F881EAD002E19B4 /* PBXBookmark */ = CBE4790E0F881EAD002E19B4 /* PBXBookmark */;
 			CBE4790F0F881EAD002E19B4 /* PBXTextBookmark */ = CBE4790F0F881EAD002E19B4 /* PBXTextBookmark */;
 			CBE479100F881EAD002E19B4 /* PBXTextBookmark */ = CBE479100F881EAD002E19B4 /* PBXTextBookmark */;
 		};
@@ -135,7 +135,7 @@
 	};
 	CB0DF6E30F75605F00DC7215 /* CocosNode.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1011, 6174}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 6258}}";
 			sepNavSelRange = "{1852, 0}";
 			sepNavVisRange = "{1715, 611}";
 		};
@@ -210,7 +210,7 @@
 			sepNavVisRange = "{0, 675}";
 		};
 	};
-	CB0FF9BD0F7FA10300913974 /* ___PROJECTNAMEASIDENTIFIER___AppDelegate.m:51 */ = {
+	CB0FF9BD0F7FA10300913974 /* ___PROJECTNAME___AppDelegate.m:51 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -218,13 +218,23 @@
 		continueAfterActions = 0;
 		countType = 0;
 		delayBeforeContinue = 0;
-		fileReference = 1D3623250D0F684500981E51 /* ___PROJECTNAMEASIDENTIFIER___AppDelegate.m */;
+		fileReference = 1D3623250D0F684500981E51 /* ___PROJECTNAME___AppDelegate.m */;
 		functionName = "-setupGameState";
 		hitCount = 0;
 		ignoreCount = 0;
 		lineNumber = 51;
 		modificationTime = 260022645.963937;
 		state = 1;
+	};
+	CB1702960F93EBF9004DE5A7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CB0DF6E30F75605F00DC7215 /* CocosNode.h */;
+		name = "CocosNode.h: 74";
+		rLen = 0;
+		rLoc = 1852;
+		rType = 0;
+		vrLen = 611;
+		vrLoc = 1715;
 	};
 	CBA2B2150F8709250016B3A6 /* ___PROJECTNAME___ */ = {
 		isa = PBXExecutable;
@@ -278,10 +288,6 @@
 		rType = 0;
 		vrLen = 675;
 		vrLoc = 0;
-	};
-	CBE4790E0F881EAD002E19B4 /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = CB0DF6E30F75605F00DC7215 /* CocosNode.h */;
 	};
 	CBE4790F0F881EAD002E19B4 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
