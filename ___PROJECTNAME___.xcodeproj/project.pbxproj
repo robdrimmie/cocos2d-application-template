@@ -46,7 +46,6 @@
 		CB0DF7460F75606000DC7215 /* CameraAction.m in Sources */ = {isa = PBXBuildFile; fileRef = CB0DF6DD0F75605F00DC7215 /* CameraAction.m */; };
 		CB0DF7470F75606000DC7215 /* cocos2d.m in Sources */ = {isa = PBXBuildFile; fileRef = CB0DF6E20F75605F00DC7215 /* cocos2d.m */; };
 		CB0DF7480F75606000DC7215 /* CocosNode.m in Sources */ = {isa = PBXBuildFile; fileRef = CB0DF6E40F75605F00DC7215 /* CocosNode.m */; };
-		CB0DF7490F75606000DC7215 /* CocosNodeExtras.m in Sources */ = {isa = PBXBuildFile; fileRef = CB0DF6E60F75605F00DC7215 /* CocosNodeExtras.m */; };
 		CB0DF74A0F75606000DC7215 /* Director.m in Sources */ = {isa = PBXBuildFile; fileRef = CB0DF6E80F75605F00DC7215 /* Director.m */; };
 		CB0DF74B0F75606000DC7215 /* EaseAction.m in Sources */ = {isa = PBXBuildFile; fileRef = CB0DF6EA0F75605F00DC7215 /* EaseAction.m */; };
 		CB0DF74C0F75606000DC7215 /* Grabber.m in Sources */ = {isa = PBXBuildFile; fileRef = CB0DF6EC0F75605F00DC7215 /* Grabber.m */; };
@@ -83,6 +82,16 @@
 		CB0DF7C10F7563EB00DC7215 /* MenuScene.m in Sources */ = {isa = PBXBuildFile; fileRef = CB0DF7C00F7563EB00DC7215 /* MenuScene.m */; };
 		CB0DF7E40F75657E00DC7215 /* GameScene.m in Sources */ = {isa = PBXBuildFile; fileRef = CB0DF7E30F75657E00DC7215 /* GameScene.m */; };
 		CB0FF9980F7EBE0B00913974 /* libFlurry.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CB0FF9970F7EBE0B00913974 /* libFlurry.a */; };
+		CB39BB4C0FAC6DAA00AC3AF7 /* AUTHORS in Resources */ = {isa = PBXBuildFile; fileRef = CB39BB440FAC6DAA00AC3AF7 /* AUTHORS */; };
+		CB39BB4D0FAC6DAA00AC3AF7 /* CHANGELOG in Resources */ = {isa = PBXBuildFile; fileRef = CB39BB450FAC6DAA00AC3AF7 /* CHANGELOG */; };
+		CB39BB4E0FAC6DAA00AC3AF7 /* DONORS in Resources */ = {isa = PBXBuildFile; fileRef = CB39BB460FAC6DAA00AC3AF7 /* DONORS */; };
+		CB39BB4F0FAC6DAA00AC3AF7 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = CB39BB470FAC6DAA00AC3AF7 /* LICENSE */; };
+		CB39BB500FAC6DAA00AC3AF7 /* LICENSE.artwork in Resources */ = {isa = PBXBuildFile; fileRef = CB39BB480FAC6DAA00AC3AF7 /* LICENSE.artwork */; };
+		CB39BB510FAC6DAA00AC3AF7 /* LICENSE.chipmunk in Resources */ = {isa = PBXBuildFile; fileRef = CB39BB490FAC6DAA00AC3AF7 /* LICENSE.chipmunk */; };
+		CB39BB520FAC6DAA00AC3AF7 /* LICENSE.TouchJSON in Resources */ = {isa = PBXBuildFile; fileRef = CB39BB4A0FAC6DAA00AC3AF7 /* LICENSE.TouchJSON */; };
+		CB39BB530FAC6DAA00AC3AF7 /* README in Resources */ = {isa = PBXBuildFile; fileRef = CB39BB4B0FAC6DAA00AC3AF7 /* README */; };
+		CB39BB590FAC6F5000AC3AF7 /* CGPointExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = CB39BB560FAC6F5000AC3AF7 /* CGPointExtension.m */; };
+		CB39BB5A0FAC6F5000AC3AF7 /* FileUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = CB39BB580FAC6F5000AC3AF7 /* FileUtils.m */; };
 		CBA2B21B0F8709500016B3A6 /* h_screen_template.png in Resources */ = {isa = PBXBuildFile; fileRef = CBA2B2190F8709500016B3A6 /* h_screen_template.png */; };
 		CBA2B21C0F8709500016B3A6 /* v_screen_template.png in Resources */ = {isa = PBXBuildFile; fileRef = CBA2B21A0F8709500016B3A6 /* v_screen_template.png */; };
 		CBEF89B10F768B4E00A59BE7 /* fps_images.png in Resources */ = {isa = PBXBuildFile; fileRef = CBEF89AE0F768B4E00A59BE7 /* fps_images.png */; };
@@ -164,8 +173,6 @@
 		CB0DF6E20F75605F00DC7215 /* cocos2d.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = cocos2d.m; sourceTree = "<group>"; };
 		CB0DF6E30F75605F00DC7215 /* CocosNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CocosNode.h; sourceTree = "<group>"; };
 		CB0DF6E40F75605F00DC7215 /* CocosNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CocosNode.m; sourceTree = "<group>"; };
-		CB0DF6E50F75605F00DC7215 /* CocosNodeExtras.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CocosNodeExtras.h; sourceTree = "<group>"; };
-		CB0DF6E60F75605F00DC7215 /* CocosNodeExtras.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CocosNodeExtras.m; sourceTree = "<group>"; };
 		CB0DF6E70F75605F00DC7215 /* Director.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Director.h; sourceTree = "<group>"; };
 		CB0DF6E80F75605F00DC7215 /* Director.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Director.m; sourceTree = "<group>"; };
 		CB0DF6E90F75605F00DC7215 /* EaseAction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EaseAction.h; sourceTree = "<group>"; };
@@ -237,6 +244,19 @@
 		CB0DF7E30F75657E00DC7215 /* GameScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameScene.m; sourceTree = "<group>"; };
 		CB0FF9960F7EBE0B00913974 /* FlurryAPI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlurryAPI.h; sourceTree = "<group>"; };
 		CB0FF9970F7EBE0B00913974 /* libFlurry.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libFlurry.a; sourceTree = "<group>"; };
+		CB39BB440FAC6DAA00AC3AF7 /* AUTHORS */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = AUTHORS; path = "Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/Cocos2d Application/Classes/cocos2d/AUTHORS"; sourceTree = DEVELOPER_DIR; };
+		CB39BB450FAC6DAA00AC3AF7 /* CHANGELOG */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = CHANGELOG; path = "Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/Cocos2d Application/Classes/cocos2d/CHANGELOG"; sourceTree = DEVELOPER_DIR; };
+		CB39BB460FAC6DAA00AC3AF7 /* DONORS */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = DONORS; path = "Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/Cocos2d Application/Classes/cocos2d/DONORS"; sourceTree = DEVELOPER_DIR; };
+		CB39BB470FAC6DAA00AC3AF7 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = "Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/Cocos2d Application/Classes/cocos2d/LICENSE"; sourceTree = DEVELOPER_DIR; };
+		CB39BB480FAC6DAA00AC3AF7 /* LICENSE.artwork */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE.artwork; path = "Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/Cocos2d Application/Classes/cocos2d/LICENSE.artwork"; sourceTree = DEVELOPER_DIR; };
+		CB39BB490FAC6DAA00AC3AF7 /* LICENSE.chipmunk */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE.chipmunk; path = "Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/Cocos2d Application/Classes/cocos2d/LICENSE.chipmunk"; sourceTree = DEVELOPER_DIR; };
+		CB39BB4A0FAC6DAA00AC3AF7 /* LICENSE.TouchJSON */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE.TouchJSON; path = "Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/Cocos2d Application/Classes/cocos2d/LICENSE.TouchJSON"; sourceTree = DEVELOPER_DIR; };
+		CB39BB4B0FAC6DAA00AC3AF7 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = README; path = "Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/Cocos2d Application/Classes/cocos2d/README"; sourceTree = DEVELOPER_DIR; };
+		CB39BB540FAC6F5000AC3AF7 /* ccArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ccArray.h; path = "Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/Cocos2d Application/Classes/cocos2d/Support/ccArray.h"; sourceTree = DEVELOPER_DIR; };
+		CB39BB550FAC6F5000AC3AF7 /* CGPointExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CGPointExtension.h; path = "Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/Cocos2d Application/Classes/cocos2d/Support/CGPointExtension.h"; sourceTree = DEVELOPER_DIR; };
+		CB39BB560FAC6F5000AC3AF7 /* CGPointExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CGPointExtension.m; path = "Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/Cocos2d Application/Classes/cocos2d/Support/CGPointExtension.m"; sourceTree = DEVELOPER_DIR; };
+		CB39BB570FAC6F5000AC3AF7 /* FileUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FileUtils.h; path = "Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/Cocos2d Application/Classes/cocos2d/Support/FileUtils.h"; sourceTree = DEVELOPER_DIR; };
+		CB39BB580FAC6F5000AC3AF7 /* FileUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FileUtils.m; path = "Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/Cocos2d Application/Classes/cocos2d/Support/FileUtils.m"; sourceTree = DEVELOPER_DIR; };
 		CBA2B2130F8709250016B3A6 /* ___PROJECTNAMEASIDENTIFIER___.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "___PROJECTNAMEASIDENTIFIER___.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CBA2B2190F8709500016B3A6 /* h_screen_template.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = h_screen_template.png; path = "Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/Cocos2d Application/Images/h_screen_template.png"; sourceTree = DEVELOPER_DIR; };
 		CBA2B21A0F8709500016B3A6 /* v_screen_template.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = v_screen_template.png; path = "Platforms/iPhoneOS.platform/Developer/Library/Xcode/Project Templates/Application/Cocos2d Application/Images/v_screen_template.png"; sourceTree = DEVELOPER_DIR; };
@@ -415,6 +435,14 @@
 		CB0DF6D10F75605F00DC7215 /* cocos2d */ = {
 			isa = PBXGroup;
 			children = (
+				CB39BB440FAC6DAA00AC3AF7 /* AUTHORS */,
+				CB39BB450FAC6DAA00AC3AF7 /* CHANGELOG */,
+				CB39BB460FAC6DAA00AC3AF7 /* DONORS */,
+				CB39BB470FAC6DAA00AC3AF7 /* LICENSE */,
+				CB39BB480FAC6DAA00AC3AF7 /* LICENSE.artwork */,
+				CB39BB490FAC6DAA00AC3AF7 /* LICENSE.chipmunk */,
+				CB39BB4A0FAC6DAA00AC3AF7 /* LICENSE.TouchJSON */,
+				CB39BB4B0FAC6DAA00AC3AF7 /* README */,
 				CB0DF6D20F75605F00DC7215 /* Action.h */,
 				CB0DF6D30F75605F00DC7215 /* Action.m */,
 				CB0DF6D40F75605F00DC7215 /* AtlasNode.h */,
@@ -434,8 +462,6 @@
 				CB0DF6E20F75605F00DC7215 /* cocos2d.m */,
 				CB0DF6E30F75605F00DC7215 /* CocosNode.h */,
 				CB0DF6E40F75605F00DC7215 /* CocosNode.m */,
-				CB0DF6E50F75605F00DC7215 /* CocosNodeExtras.h */,
-				CB0DF6E60F75605F00DC7215 /* CocosNodeExtras.m */,
 				CB0DF6E70F75605F00DC7215 /* Director.h */,
 				CB0DF6E80F75605F00DC7215 /* Director.m */,
 				CB0DF6E90F75605F00DC7215 /* EaseAction.h */,
@@ -495,6 +521,11 @@
 		CB0DF70D0F75606000DC7215 /* Support */ = {
 			isa = PBXGroup;
 			children = (
+				CB39BB540FAC6F5000AC3AF7 /* ccArray.h */,
+				CB39BB550FAC6F5000AC3AF7 /* CGPointExtension.h */,
+				CB39BB560FAC6F5000AC3AF7 /* CGPointExtension.m */,
+				CB39BB570FAC6F5000AC3AF7 /* FileUtils.h */,
+				CB39BB580FAC6F5000AC3AF7 /* FileUtils.m */,
 				CB0DF70E0F75606000DC7215 /* EAGLView.h */,
 				CB0DF70F0F75606000DC7215 /* EAGLView.m */,
 				CB0DF7100F75606000DC7215 /* glu.c */,
@@ -600,6 +631,14 @@
 				CBEF89B10F768B4E00A59BE7 /* fps_images.png in Resources */,
 				CBA2B21B0F8709500016B3A6 /* h_screen_template.png in Resources */,
 				CBA2B21C0F8709500016B3A6 /* v_screen_template.png in Resources */,
+				CB39BB4C0FAC6DAA00AC3AF7 /* AUTHORS in Resources */,
+				CB39BB4D0FAC6DAA00AC3AF7 /* CHANGELOG in Resources */,
+				CB39BB4E0FAC6DAA00AC3AF7 /* DONORS in Resources */,
+				CB39BB4F0FAC6DAA00AC3AF7 /* LICENSE in Resources */,
+				CB39BB500FAC6DAA00AC3AF7 /* LICENSE.artwork in Resources */,
+				CB39BB510FAC6DAA00AC3AF7 /* LICENSE.chipmunk in Resources */,
+				CB39BB520FAC6DAA00AC3AF7 /* LICENSE.TouchJSON in Resources */,
+				CB39BB530FAC6DAA00AC3AF7 /* README in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -641,7 +680,6 @@
 				CB0DF7460F75606000DC7215 /* CameraAction.m in Sources */,
 				CB0DF7470F75606000DC7215 /* cocos2d.m in Sources */,
 				CB0DF7480F75606000DC7215 /* CocosNode.m in Sources */,
-				CB0DF7490F75606000DC7215 /* CocosNodeExtras.m in Sources */,
 				CB0DF74A0F75606000DC7215 /* Director.m in Sources */,
 				CB0DF74B0F75606000DC7215 /* EaseAction.m in Sources */,
 				CB0DF74C0F75606000DC7215 /* Grabber.m in Sources */,
@@ -675,6 +713,8 @@
 				CB0DF7680F75606000DC7215 /* Transition.m in Sources */,
 				CB0DF7C10F7563EB00DC7215 /* MenuScene.m in Sources */,
 				CB0DF7E40F75657E00DC7215 /* GameScene.m in Sources */,
+				CB39BB590FAC6F5000AC3AF7 /* CGPointExtension.m in Sources */,
+				CB39BB5A0FAC6F5000AC3AF7 /* FileUtils.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -14,7 +14,7 @@
     self = [super init];
     if (self != nil) {
         Sprite * bg = [Sprite spriteWithFile:@"v_screen_template.png"];
-		bg.transformAnchor = cpvzero;
+		bg.transformAnchor = CGPointZero;
         [self addChild:bg z:0];
         [self addChild:[GameLayer node] z:1];
     }

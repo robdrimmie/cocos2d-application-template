@@ -17,7 +17,7 @@
 	
 	if (self != nil) {
         Sprite * bg = [Sprite spriteWithFile:@"v_screen_template.png"];
-        [bg setPosition:cpv(240, 160)];
+        [bg setPosition:ccp(240, 160)];
         [self addChild:bg z:0];
         [self addChild:[MenuLayer node] z:1];
     }

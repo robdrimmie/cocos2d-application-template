@@ -10,7 +10,7 @@
 	1D3623250D0F684500981E51 /* ___PROJECTNAME___AppDelegate.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1011, 868}}";
-			sepNavSelRange = "{0, 196}";
+			sepNavSelRange = "{196, 0}";
 			sepNavVisRange = "{0, 994}";
 		};
 	};
@@ -93,16 +93,20 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 261352318;
-			PBXWorkspaceStateSaveDate = 261352318;
+			PBXPerProjectTemplateStateSaveDate = 262958453;
+			PBXWorkspaceStateSaveDate = 262958453;
 		};
 		perUserProjectItems = {
-			CB1702960F93EBF9004DE5A7 /* PBXTextBookmark */ = CB1702960F93EBF9004DE5A7 /* PBXTextBookmark */;
+			CB39BB5B0FAC6F5600AC3AF7 /* PBXTextBookmark */ = CB39BB5B0FAC6F5600AC3AF7 /* PBXTextBookmark */;
+			CB39BB5C0FAC6F5600AC3AF7 /* PBXTextBookmark */ = CB39BB5C0FAC6F5600AC3AF7 /* PBXTextBookmark */;
+			CB39BB5D0FAC6F5600AC3AF7 /* PBXTextBookmark */ = CB39BB5D0FAC6F5600AC3AF7 /* PBXTextBookmark */;
+			CB39BB5E0FAC6F5600AC3AF7 /* PBXTextBookmark */ = CB39BB5E0FAC6F5600AC3AF7 /* PBXTextBookmark */;
+			CB39BB5F0FAC6F5600AC3AF7 /* PBXTextBookmark */ = CB39BB5F0FAC6F5600AC3AF7 /* PBXTextBookmark */;
+			CB39BB600FAC6F5600AC3AF7 /* PBXTextBookmark */ = CB39BB600FAC6F5600AC3AF7 /* PBXTextBookmark */;
+			CB39BB610FAC6F5600AC3AF7 /* PBXTextBookmark */ = CB39BB610FAC6F5600AC3AF7 /* PBXTextBookmark */;
+			CB39BB620FAC6F5600AC3AF7 /* PBXTextBookmark */ = CB39BB620FAC6F5600AC3AF7 /* PBXTextBookmark */;
 			CBA2B2240F8709890016B3A6 /* PBXTextBookmark */ = CBA2B2240F8709890016B3A6 /* PBXTextBookmark */;
 			CBA2B2260F8709890016B3A6 /* PBXTextBookmark */ = CBA2B2260F8709890016B3A6 /* PBXTextBookmark */;
-			CBE4790D0F881EAD002E19B4 /* PBXTextBookmark */ = CBE4790D0F881EAD002E19B4 /* PBXTextBookmark */;
-			CBE4790F0F881EAD002E19B4 /* PBXTextBookmark */ = CBE4790F0F881EAD002E19B4 /* PBXTextBookmark */;
-			CBE479100F881EAD002E19B4 /* PBXTextBookmark */ = CBE479100F881EAD002E19B4 /* PBXTextBookmark */;
 		};
 		sourceControlManager = CB0DF6610F755E3300DC7215 /* Source Control */;
 		userBuildSettings = {
@@ -135,9 +139,9 @@
 	};
 	CB0DF6E30F75605F00DC7215 /* CocosNode.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1011, 6258}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 6916}}";
 			sepNavSelRange = "{1852, 0}";
-			sepNavVisRange = "{1715, 611}";
+			sepNavVisRange = "{1706, 612}";
 		};
 	};
 	CB0DF6E40F75605F00DC7215 /* CocosNode.m */ = {
@@ -191,9 +195,9 @@
 	};
 	CB0DF7C00F7563EB00DC7215 /* MenuScene.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {720, 840}}";
-			sepNavSelRange = "{1087, 0}";
-			sepNavVisRange = "{928, 316}";
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 798}}";
+			sepNavSelRange = "{496, 0}";
+			sepNavVisRange = "{166, 762}";
 		};
 	};
 	CB0DF7E20F75657E00DC7215 /* GameScene.h */ = {
@@ -205,9 +209,9 @@
 	};
 	CB0DF7E30F75657E00DC7215 /* GameScene.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1011, 742}}";
-			sepNavSelRange = "{188, 0}";
-			sepNavVisRange = "{0, 675}";
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 728}}";
+			sepNavSelRange = "{210, 0}";
+			sepNavVisRange = "{0, 679}";
 		};
 	};
 	CB0FF9BD0F7FA10300913974 /* ___PROJECTNAME___AppDelegate.m:51 */ = {
@@ -226,15 +230,85 @@
 		modificationTime = 260022645.963937;
 		state = 1;
 	};
-	CB1702960F93EBF9004DE5A7 /* PBXTextBookmark */ = {
+	CB39BB5B0FAC6F5600AC3AF7 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = CB0DF6E30F75605F00DC7215 /* CocosNode.h */;
-		name = "CocosNode.h: 74";
+		name = "CocosNode.h: 72";
 		rLen = 0;
 		rLoc = 1852;
 		rType = 0;
-		vrLen = 611;
-		vrLoc = 1715;
+		vrLen = 612;
+		vrLoc = 1706;
+	};
+	CB39BB5C0FAC6F5600AC3AF7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ___PROJECTNAME___AppDelegate.m */;
+		name = "___PROJECTNAME___AppDelegate.m: 7";
+		rLen = 0;
+		rLoc = 196;
+		rType = 0;
+		vrLen = 994;
+		vrLoc = 0;
+	};
+	CB39BB5D0FAC6F5600AC3AF7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CB0DF7E30F75657E00DC7215 /* GameScene.m */;
+		name = "GameScene.m: 10";
+		rLen = 0;
+		rLoc = 210;
+		rType = 0;
+		vrLen = 679;
+		vrLoc = 0;
+	};
+	CB39BB5E0FAC6F5600AC3AF7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CB0DF7C00F7563EB00DC7215 /* MenuScene.m */;
+		name = "MenuScene.m: 22";
+		rLen = 0;
+		rLoc = 442;
+		rType = 0;
+		vrLen = 757;
+		vrLoc = 166;
+	};
+	CB39BB5F0FAC6F5600AC3AF7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CB0DF6E30F75605F00DC7215 /* CocosNode.h */;
+		name = "CocosNode.h: 72";
+		rLen = 0;
+		rLoc = 1852;
+		rType = 0;
+		vrLen = 612;
+		vrLoc = 1706;
+	};
+	CB39BB600FAC6F5600AC3AF7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ___PROJECTNAME___AppDelegate.m */;
+		name = "___PROJECTNAME___AppDelegate.m: 7";
+		rLen = 0;
+		rLoc = 196;
+		rType = 0;
+		vrLen = 994;
+		vrLoc = 0;
+	};
+	CB39BB610FAC6F5600AC3AF7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CB0DF7E30F75657E00DC7215 /* GameScene.m */;
+		name = "GameScene.m: 10";
+		rLen = 0;
+		rLoc = 210;
+		rType = 0;
+		vrLen = 679;
+		vrLoc = 0;
+	};
+	CB39BB620FAC6F5600AC3AF7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = CB0DF7C00F7563EB00DC7215 /* MenuScene.m */;
+		name = "MenuScene.m: 24";
+		rLen = 0;
+		rLoc = 496;
+		rType = 0;
+		vrLen = 762;
+		vrLoc = 166;
 	};
 	CBA2B2150F8709250016B3A6 /* ___PROJECTNAME___ */ = {
 		isa = PBXExecutable;
@@ -278,35 +352,5 @@
 		rType = 0;
 		vrLen = 425;
 		vrLoc = 0;
-	};
-	CBE4790D0F881EAD002E19B4 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = CB0DF7E30F75657E00DC7215 /* GameScene.m */;
-		name = "GameScene.m: 9";
-		rLen = 0;
-		rLoc = 188;
-		rType = 0;
-		vrLen = 675;
-		vrLoc = 0;
-	};
-	CBE4790F0F881EAD002E19B4 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = CB0DF7E30F75657E00DC7215 /* GameScene.m */;
-		name = "GameScene.m: 9";
-		rLen = 0;
-		rLoc = 188;
-		rType = 0;
-		vrLen = 675;
-		vrLoc = 0;
-	};
-	CBE479100F881EAD002E19B4 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = CB0DF6E30F75605F00DC7215 /* CocosNode.h */;
-		name = "CocosNode.h: 74";
-		rLen = 0;
-		rLoc = 1852;
-		rType = 0;
-		vrLen = 611;
-		vrLoc = 1715;
 	};
 }
